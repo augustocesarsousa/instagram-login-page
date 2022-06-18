@@ -126,3 +126,27 @@ body {
 .get-apps-btn img {
     width: 100%;
 }
+
+@media(max-width: 1024px) {
+    .instagram-container {
+        width: 90%;
+    }
+}
+
+@media(max-width: 650px) {
+    body {
+        background-color: #fff;
+    }
+
+    .base-card {
+        border: none;
+    }
+
+    .phone-content {
+        display: none;
+    }
+
+    .form-content {
+        width: 100%;
+    }
+}
