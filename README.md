@@ -19,4 +19,4 @@ Este projeto foi desenvolvido no Bootcamp Santander Fullstack Developer pela <a 
 
 ## Link do projeto
 
-<a href="https://augustocesarsousa.github.io/instagram-login-page/" target="_blank">Instagram clone</a>
+<a href="https://instagram-acsousa.netlify.app/" target="_blank">Instagram clone</a>
